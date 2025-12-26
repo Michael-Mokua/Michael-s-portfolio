@@ -24,8 +24,8 @@ export const personalInfo = {
     ],
     socials: {
         github: "https://github.com/Michael-Mokua",
-        instagram: "https://www.instagram.com/michael_mokua/",
-        linkedin: "https://www.linkedin.com/in/michael-mokua-11536b306/",
+        instagram: "https://www.instagram.com/whoismichaia/",
+        linkedin: "https://www.linkedin.com/in/michael-mokua-251390302/",
         twitter: "https://x.com/Im_Dah_Dude___",
     },
 };
